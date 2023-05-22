@@ -66,6 +66,7 @@ A features importance graph was drawn to determine the most influential features
 
 * confusion matrix
 The confusion matrix of the model:
+
 ![confusion matrix](https://github.com/Sharonkimani/phase_3_project/blob/main/confusion%20matrix.png)
 
 ### Challenges
