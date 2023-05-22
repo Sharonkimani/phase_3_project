@@ -3,7 +3,7 @@
 ## Name: Sharon wanjiku kimani
 
 ### SYRIATEL TELECOMMUNICATION COMPANY CUSTOMER CHURN PREDICTION 
-(customer retention image)
+![customer retention image](https://github.com/Sharonkimani/phase_3_project/blob/main/customer%20retention.PNG)
 
 ### Introduction 
 
@@ -46,21 +46,28 @@ The final model was the one that had the highest accuracy ie the decision tree c
 
 ### Data visualization
 * Graph of individual variables' distribution:
-** Numerical variables
+The numerical predictor variables are distributed as shown:
+![numerical variables](https://github.com/Sharonkimani/phase_3_project/blob/main/individual%20varuiable%20distribution%20num.png)
 
-
-** Categorical variables
+The categorical predictor variables were distributed as shown:
+![categorical variables](https://github.com/Sharonkimani/phase_3_project/blob/main/cat%20individual%20distribution.png)
 
 * Distribution of our target variable :
+The data had class imbalance problem ie most customers in this data did not churn.
+![distribution of churn](https://github.com/Sharonkimani/phase_3_project/blob/main/target%20churn%20distribution.png)
 
 * The decision tree:
+The fitted model was:
+![decision tree](https://github.com/Sharonkimani/phase_3_project/blob/main/decision%20tree.png)
 
 * Features importance graph:
 A features importance graph was drawn to determine the most influential features in the decision tree model, allowing you to understand which features have the greatest impact on the model's predictions
-
+![features importance graph](https://github.com/Sharonkimani/phase_3_project/blob/main/features%20importance.png)
 
 * confusion matrix
+The confusion matrix of the model:
 
+![confusion matrix](https://github.com/Sharonkimani/phase_3_project/blob/main/confusion%20matrix.png)
 
 ### Challenges
 
