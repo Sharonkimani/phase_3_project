@@ -51,6 +51,7 @@ The numerical predictor variables are distributed as shown:
 
 The categorical predictor variables were distributed as shown:
 ![categorical variables](https://github.com/Sharonkimani/phase_3_project/blob/main/categorical.png)
+![categorical variables](https://github.com/Sharonkimani/phase_3_project/blob/main/cat%20individual%20distribution.png)
 
 * Distribution of our target variable :
 The data had class imbalance problem ie most customers in this data did not churn.
